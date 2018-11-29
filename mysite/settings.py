@@ -141,6 +141,7 @@ INSTALLED_APPS = (
     'mysite',
 
     'polls',
+    'polls_cms_integration',
 )
 
 LANGUAGES = (
