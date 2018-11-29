@@ -138,7 +138,9 @@ INSTALLED_APPS = (
     'djangocms_snippet',
     'djangocms_googlemap',
     'djangocms_video',
-    'mysite'
+    'mysite',
+
+    'polls',
 )
 
 LANGUAGES = (
@@ -188,7 +190,7 @@ DATABASES = {
 }
 
 MIGRATION_MODULES = {
-    
+
 }
 
 THUMBNAIL_PROCESSORS = (
