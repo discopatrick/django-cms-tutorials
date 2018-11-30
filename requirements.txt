@@ -22,3 +22,4 @@ django-sekizai>=0.9
 six
 
 git+http://git@github.com/divio/django-polls.git#egg=polls
+aldryn-newsblog==2.1.1
