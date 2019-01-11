@@ -160,6 +160,8 @@ INSTALLED_APPS = (
 
     'polls',
     'polls_cms_integration',
+
+    'articles',
 )
 
 LANGUAGES = (
