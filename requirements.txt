@@ -23,3 +23,5 @@ six
 
 git+http://git@github.com/divio/django-polls.git#egg=polls
 aldryn-newsblog==2.1.1
+
+django-extensions==2.1.4

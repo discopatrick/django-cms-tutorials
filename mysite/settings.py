@@ -158,6 +158,8 @@ INSTALLED_APPS = (
     'sortedm2m',
     'taggit',
 
+    'django_extensions',
+
     'polls',
     'polls_cms_integration',
 
